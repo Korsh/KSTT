@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KSTT.iml" filepath="$PROJECT_DIR$/KSTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KSTT.iml" filepath="$PROJECT_DIR$/.idea/KSTT.iml" />
     </modules>
   </component>
 </project>
